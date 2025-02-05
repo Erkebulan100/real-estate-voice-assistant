@@ -1,0 +1,20 @@
+{
+  "name": "real-estate-voice-assistant",
+  "version": "1.0.0",
+  "description": "A web application for finding properties using voice interactions with AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erkebulan100/real-estate-voice-assistant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erkebulan100/real-estate-voice-assistant/issues"
+  },
+  "homepage": "https://github.com/Erkebulan100/real-estate-voice-assistant#readme"
+}
